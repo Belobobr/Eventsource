@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="app2-endpoints-android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app2/build/libs/app2-endpoints-android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

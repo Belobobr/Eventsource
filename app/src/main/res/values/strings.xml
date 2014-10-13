@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Eventsource</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="toast_no_google_account_selected">No Google Account Selected</string>
+    <string name="toast_exception_checking_authorization">Exception checking authorization</string>
+    <string name="toast_no_google_accounts_registered">No Google Accounts Registered</string>
+    <string name="toast_only_one_google_account_registered">Your only registered Google account was selected</string>
+    <string name="title_activity_meeting">MeetingActivity</string>
+    <string name="title_activity_meet">MeetActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_friends">Друзья</string>
+    <string name="title_events">События</string>
+    <string name="title_settings">Настройки</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+
+
+    <string name="inline_preferences">inline_preferences</string>
+    <string name="title_checkbox_preference">title_checkbox_preference</string>
+    <string name="summary_checkbox_preference">summary_checkbox_preference</string>
+    <string name="user_identity">Учетная запись</string>
+    <string name="title_edittext_preference">Выйти</string>
+    <string name="dialog_title_edittext_preference">Выйти</string>
+    <string name="title_list_preference">title_list_preference</string>
+
+
+    <string-array name="entries_list_preference">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+
+    <string-array name="entryvalues_list_preference">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+
+
+    <string name="dialog_title_list_preference">dialog_title_list_preference</string>
+
+    <string name="launch_preferences">launch_preferences</string>
+    <string name="title_screen_preference">title_screen_preference</string>
+    <string name="summary_screen_preference">summary_screen_preference</string>
+    <string name="title_next_screen_toggle_preference">title_next_screen_toggle_preference</string>
+    <string name="summary_next_screen_toggle_preference">summary_next_screen_toggle_preference</string>
+    <string name="title_intent_preference">title_intent_preference</string>
+    <string name="summary_intent_preferenc">summary_intent_preferenc</string>
+    <string name="preference_attributes">preference_attributes</string>
+    <string name="title_parent_preference">title_parent_preference</string>
+    <string name="summary_parent_preference">summary_parent_preference</string>
+    <string name="title_child_preference">title_child_preference</string>
+    <string name="summary_child_preference">summary_child_preference</string>
+
+    <string name="summary_edittext_preference">Седнев Михаил</string>
+    <string name="entries_list_preference">entries_list_preference</string>
+    <string name="entryvalues_list_preference">entryvalues_list_preference</string>
+    <string name="summary_intent_preference">summary_intent_preference</string>
+
+
+    <string name="summary_list_preference">summary_list_preference</string>
+
+    <string name="exit_message">При выходе из учетной записи из устройства будут удалены все связанные с ней данные. Продолжить?</string>
+
+
+</resources>
